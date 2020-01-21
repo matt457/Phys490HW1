@@ -1,4 +1,4 @@
-# Assignment 1*
+# Assignment 1
 
 - name: Matthew Man
 - student ID: 20602376
